@@ -66,7 +66,7 @@ instances kept off the variable scope.
 - Refactoring the hierarchy is manual work without refactoring tool help
 - Slight overhead on memory because of anonymous classes being instantiated
 
-Larger [example](src/main/java/org/samuliwritescode/declarativejava/MainRoute.java#L30)
+Larger [example](src/main/java/org/samuliwritescode/declarativejava/MainRoute.java)
 
 There are no absolute right or wrongs here and if you search the internet about this topic, it is going to be
 opinionated. You can decide what is yours and use or not use this style.
